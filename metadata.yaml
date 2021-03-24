@@ -1,0 +1,57 @@
+_repo: Christianity-in-relation-to-Freethought-Scepticism-and-Faith-Three-discourses-by-the-Bishop-o__64503
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Cooper, Robert A.
+    gutenberg_agent_id: '52933'
+    url: http://www.gutenberg.org/2009/agents/52933
+  - agent_name: Goulburn, Edward Meyrick
+    aliases:
+    - Norwich, Dean of (Edward Meyrick Goulburn)
+    - Goulburn, E. M. (Edward Meyrick)
+    birthdate: 1818
+    deathdate: 1897
+    gutenberg_agent_id: '47754'
+    url: http://www.gutenberg.org/2009/agents/47754
+    wikipedia: https://en.wikipedia.org/wiki/Meyrick_Goulburn
+creator:
+  authors:
+  - agent_name: Magee, William Connor
+    aliases:
+    - Peterborough, Bishop of (William Connor Magee)
+    - Connor, William
+    - Magee, W. C. (William Connor)
+    birthdate: 1822
+    deathdate: 1891
+    gutenberg_agent_id: '52930'
+    url: http://www.gutenberg.org/2009/agents/52930
+    wikipedia: https://en.wikipedia.org/wiki/William_Connor_Magee
+  - agent_name: Bradlaugh, Charles
+    aliases:
+    - Bradlaugh, C. (Charles)
+    - Iconoclast
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '34430'
+    url: http://www.gutenberg.org/2009/agents/34430
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
+description: ''
+gutenberg_issued: '2021-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BT'
+- !lcsh 'Apologetics'
+- !lcsh 'Skepticism'
+- !lcsh 'Christianity -- Controversial literature'
+- GITenberg
+title: 'Christianity in relation to Freethought, Scepticism, and Faith
+
+  Three discourses by the Bishop of Peterborough with special replies by Mr. C. Bradlaugh'
+url: http://www.gutenberg.org/ebooks/64503
