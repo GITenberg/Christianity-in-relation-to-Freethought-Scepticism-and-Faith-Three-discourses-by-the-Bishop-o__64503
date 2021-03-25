@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '47754'
     url: http://www.gutenberg.org/2009/agents/47754
     wikipedia: https://en.wikipedia.org/wiki/Meyrick_Goulburn
+covers:
+- cover_type: archival
+  image_path: 64503-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Magee, William Connor
@@ -36,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34430
     wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64503#Christianity-in-relation-to-Freethought-Scepticism-and-Faith-Three-discourses-by-the-Bishop-o_
 gutenberg_issued: '2021-02-08'
 gutenberg_type: Text
 identifiers:
